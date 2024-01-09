@@ -1,3 +1,4 @@
-CAPITULO 1
-CAPITULO 2
-CAPITULO 3
+CAPITULO 1: Introducción
+CAPITULO 2: Flujo de trabajo básico
+CAPITULO 3: Gestión de ramas
+CAPITULO 4: Repositorios remotos
